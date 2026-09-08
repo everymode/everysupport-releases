@@ -1,2 +1,19 @@
-# everysupport-releases
-EverySupport Windows 설치파일 및 업데이트 배포 전용 저장소
+# EverySupport
+
+지원사업과 R&D 과제의 사업기간·예산·집행내역·일정을 관리하는 Windows용 사내 앱입니다.
+
+## 다운로드
+
+[최신 설치파일과 변경 내용 보기](https://github.com/everymode/everysupport-releases/releases/latest)
+
+Windows 10·11 64비트에서 설치파일을 실행한 뒤, 바탕화면의 EverySupport를 실행하세요.
+
+## 업데이트
+
+앱의 **도움말 → 업데이트 확인**에서 새 버전을 내려받을 수 있습니다. 기존 v0.30 또는 압축형 버전 사용자는 최신 설치파일을 한 번 설치해 주세요. 같은 Windows 계정의 기존 사업 데이터와 API 설정은 유지됩니다.
+
+## 배포 범위
+
+이 저장소는 설치파일·업데이트 정보·변경 안내만 제공합니다. 개발 소스 저장소는 별도로 관리합니다.
+
+설치파일에는 회사 사업 데이터와 API 키가 포함되어 있지 않습니다. 새 PC에서 PDF·엑셀 자동 분석을 사용하려면 사내에서 API 설정을 별도로 전달받아야 합니다.
